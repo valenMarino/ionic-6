@@ -1,0 +1,8 @@
+{
+  "name": "New",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "720e4f80"
+}
